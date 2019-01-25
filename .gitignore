@@ -1,0 +1,16 @@
+build
+stage
+.svn
+.gradle
+deploy/ISS.war/WEB-INF/classes
+.idea
+META-INF
+lib
+.metadata/
+RemoteSystemsTempFiles/
+myls.iml
+out/
+/bin/
+.settings/
+.classpath
+.project
